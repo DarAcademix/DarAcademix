@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Guitar
 - 👯 I’m looking to collaborate on Python Scripting.
 - 👽 Take me to Your repo. 👽
+- 😹: friends make friends cry laughing.
